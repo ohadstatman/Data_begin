@@ -5,3 +5,5 @@ git commit -m "write a coment"- מצמיד את ההערה לשינוי
 git push origin master הענף הראשי נקרא מאסטר". זו הפקדוה שמעלה אתה שינוי לגיטהאב
 
 git remote -v - זה מראה אם חיברתי את התיקייה לגיטהאב
+ git checkout -b new_branch - פותח ענף חדש (השם זה במקום new_branch)
+

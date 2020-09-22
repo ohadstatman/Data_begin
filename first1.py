@@ -12,6 +12,8 @@ for l in lst:
         numbers.append(int(num))
 print(sum(numbers))
 
-print("izik is alwyas sick")
+l = [2,3,5,6]
+for i in l:
+    print(i)
 
 
