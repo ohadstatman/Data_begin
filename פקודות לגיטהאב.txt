@@ -7,6 +7,7 @@ git push origin master הענף הראשי נקרא מאסטר". זו הפקדו
 git remote -v - זה מראה אם חיברתי את התיקייה לגיטהאב
  git checkout -b new_branch - פותח ענף חדש (השם זה במקום new_branch)
 
+
 git checkout (branch name) - לחזור לענף כלשהו 
 git checkout - b (brnach name) - זה ליצור ענף חדש
 
