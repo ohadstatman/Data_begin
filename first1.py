@@ -12,4 +12,6 @@ for l in lst:
         numbers.append(int(num))
 print(sum(numbers))
 
+print("izik is alwyas sick")
+
 
